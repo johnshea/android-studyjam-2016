@@ -7,7 +7,7 @@ Based on insights from that first run, the second series of Study Jams in 2016 w
 
 
 ## About This Book
-This book was created by [Nitya Narasimhan](https://github.com/nitya) for use in the [GDG Hudson Valley](http://www.meetup.com/gdg-hudson-valley/) Study Jam. It uses the GitBook platform and can be edited directly online using your GitHub login. All changes are directly pushed to this backing GitHub repo, triggering rebuilds of the GitBook. The GitBook platform allows us to make this content available in web (HTML), and digital (ePub, mobi, pdf) versions for easy reading.
+This book was created by [Nitya Narasimhan](https://github.com/nitya) for use in the [GDG Hudson Valley](http://www.meetup.com/gdg-hudson-valley/) Study Jam. It uses the GitBook platform and can be edited directly online using your GitHub login. All changes are directly pushed to this backing GitHub repo, triggering rebuilds of [the GitBoo](https://www.gitbook.com/book/nitya/android-studyjam-2016/details)k. The GitBook platform allows us to make this content available in[ web](https://www.gitbook.com/read/book/nitya/android-studyjam-2016) (HTML), and digital ([mobi](https://www.gitbook.com/download/mobi/book/nitya/android-studyjam-2016), [ePub](https://www.gitbook.com/download/epub/book/nitya/android-studyjam-2016), [pdf](https://www.gitbook.com/download/pdf/book/nitya/android-studyjam-2016)) versions for easy reading.
 
 ### Contributors
 As with 2015, the goal is to make this an open-source effort that anyone can contribute either by requesting to be added as a direct collaborator, or by generating pull requests to our repo. Please feel free to edit this section and add your name/GitHub-handle for attribution as shown:
