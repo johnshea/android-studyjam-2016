@@ -5,4 +5,5 @@
 * [Lesson 2A: Making an App Interactive](lessons/2a_making_an_app_interactive.md)
 * [Lesson 2B: Making an App Interactive](lessons/2b_making_an_app_interactive.md)
 * [Lesson 3A: Object Oriented Programming](lessons/3a_object_oriented_programming.md)
+* Lesson 3B: Object Oriented Programming
 
