@@ -7,19 +7,18 @@ The [Google Developers](https://developers.google.com/groups/) Study Jams is a f
 Based on insights from that first run, the second series of Study Jams in 2016 will run from Feb-May and focus on the [Udacity "Android for Beginners"](https://www.udacity.com/course/viewer#!/c-ud837) curriculum. This version targets absolute beginners -- anyone who has no programming experience, or has programmed with a language other than Android. You can find out more about the course content and materials on the [Udacity Course Wiki](https://www.udacity.com/wiki/ud837).
 
 
-### About The Course
+### Course Outline
 The Android For Beginners course is currently based on the following outline.
 
-* __Lesson 1A__: Building Layouts
-* __Lesson 1B__: Building Layouts
+* __Lesson 1A__ and __Lesson 1B__: Building Layouts
 * *Practice Set 1*
 * *Coffee Break Challenge* (Optional)
-* __Lesson 2A__: Making an App Interactive
-* __Lesson 2B__: Making an App Interactive
+* __Lesson 2A__ and __Lesson 2B__: Making an App Interactive
 * *Practice Set 2*
-* __Lesson 3A__: Object Oriented Programming
-* __Lesson 3B__: Object Oriented Programming
+* __Lesson 3A__ and __Lesson 3B__: Object Oriented Programming
 * *Final Project* : 5 Things
+
+
 
 ### Pre-Requisites
 While there are officially no pre-requisites for this course, it will be useful for participants to do the following ahead of time:
