@@ -1,24 +1,38 @@
 # Syllabus
 
-### Course Syllabus
 The following is replicated from the [Udacity Wiki](https://www.udacity.com/wiki/ud837) and the [Course Syllabus](https://www.udacity.com/course/android-development-for-beginners--ud837)
 
-#### Lesson 1: Building Layouts
+## 1. Building Layouts
 
-Take your hand drawn app designs and lay them out on the phone screen. In this lesson you’ll learn the XML markup language used to lay out Android applications. You’ll create views, the basic building block of Android layouts, that display text and images. Then you’ll position your text and images on these screens. This highly interactive lesson encourages experimentation through coding challenges in Udacity’s XML Visualizer.
+Take your hand drawn app designs and lay them out on the phone screen. In this lesson you'll learn about various Views and ViewGroups used to make layouts for your Android apps. You’ll learn the XML markup language used to lay out Android applications. You’ll create views, the basic building block of Android layouts, that display text and images. Then you’ll position your text and images on these screens. This highly interactive lesson encourages experimentation through coding challenges in Udacity’s [XML Visualizer](http://labs.udacity.com/android-visualizer/#/android/sandbox).
 
-#### Practice Set 1
+#### Topics
+1. Writing XML
+2. TextViews and ImageViews
+3. Styling your views
+4. Positioning your views with ViewGroups
+5. LinearLayout weight
+6. Using RelativeLayout to position views relative to each other
 
-Create a birthday card application for your phone. You’ll start by installing Android Studio, a program used by professional developers to make Android applications. You’ll then transfer a simple application you create from your computer to your phone. Following that, you’ll take all the concepts you learned in Lesson 1 to build your birthday card app, and install it on your phone for your friends and family to see.
 
-Lesson 2: Making an App Interactive
+#### Practice Set
+
+**Create a birthday card application for your phone.** 
+
+You’ll start by installing Android Studio, a program used by professional developers to make Android applications. You’ll then transfer a simple application you create from your computer to your phone. Following that, you’ll take all the concepts you learned in Lesson 1 to build your birthday card app, and install it on your phone for your friends and family to see.
+
+
+
+## 2. Making an App Interactive
 
 Harness the power of Java to create an interactive coffee ordering app! You’ll start by writing simple statements in Java that add interactivity to your app. You’ll then incorporate buttons to trigger events. You’ll finally use a fundamental concept in programming, a variable, to keep track of all the coffee drinks ordered.
 
-Practice Set 2
+#### Practice Set 
 
 Reinforce the skills learned in Lesson 2 by creating a basketball score tracker. The first part of the practice set will solidify how to write and use variables before creating your basketball score tracker app.
 
-Lesson 3: Work with the Android Framework and Control Flow
+
+
+## 3. Object Oriented Programming
 
 Take a deeper dive into the Android Framework to complete the Just Java coffee ordering app! You’ll see in more detail how Android works behind the scenes and take your first steps towards learning Object Oriented Programming. You’ll add the ability to add toppings to your coffee, and show a detailed order summary when the customer purchases a coffee.
