@@ -21,6 +21,11 @@ The Android For Beginners course is currently based on the following outline.
 * __Lesson 3B__: Object Oriented Programming
 * *Final Project* : 5 Things
 
+### Pre-Requisites
+While there are officially no pre-requisites for this course, it will be useful for participants to do the following ahead of time:
+1. Review *[How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)*
+2. Install *[Android Studio](https://developer.android.com/sdk/index.html)*
+
 
 
 ## About the GDG Hudson Valley Jam
