@@ -7,17 +7,7 @@ The [Google Developers](https://developers.google.com/groups/) Study Jams is a f
 Based on insights from that first run, the second series of Study Jams in 2016 will run from Feb-May and focus on the [Udacity "Android for Beginners"](https://www.udacity.com/course/viewer#!/c-ud837) curriculum. This version targets absolute beginners -- anyone who has no programming experience, or has programmed with a language other than Android. You can find out more about the course content and materials on the [Udacity Course Wiki](https://www.udacity.com/wiki/ud837).
 
 
-
-## About This Book
-This book was created by [Nitya Narasimhan](https://github.com/nitya) for use in the [GDG Hudson Valley](http://www.meetup.com/gdg-hudson-valley/) Study Jam. It uses the GitBook platform and can be edited directly online using your GitHub login. All changes are directly pushed to this backing GitHub repo, triggering rebuilds of [the GitBoo](https://www.gitbook.com/book/nitya/android-studyjam-2016/details)k. The GitBook platform allows us to make this content available in[ web](https://www.gitbook.com/read/book/nitya/android-studyjam-2016) (HTML), and digital ([mobi](https://www.gitbook.com/download/mobi/book/nitya/android-studyjam-2016), [ePub](https://www.gitbook.com/download/epub/book/nitya/android-studyjam-2016), [pdf](https://www.gitbook.com/download/pdf/book/nitya/android-studyjam-2016)) versions for easy reading.
-
-### Contributors
-As with 2015, the goal is to make this an open-source effort that anyone can contribute either by requesting to be added as a direct collaborator, or by generating pull requests to our repo. Please feel free to edit this section and add your name/GitHub-handle for attribution as shown:
-* **Nitya Narasimhan** ([github](https://github.com/nitya))
-
-
-
-## About The Course
+### About The Course
 The Android For Beginners course is currently based on the following outline.
 
 * __Lesson 1A__: Building Layouts
@@ -32,7 +22,17 @@ The Android For Beginners course is currently based on the following outline.
 * *Final Project* : 5 Things
 
 
-## About GDG Hudson Valley Jams
+
+## About the GDG Hudson Valley Jam
 We will kick off with an [all-day workshop](http://www.meetup.com/gdg-hudson-valley/events/227448769/) where we will review all lesson content, ensure that everyone is setup with the right development environment for the course, and walk everyone through at least one simple practice set.
 
 The six lessons will then be covered over the next 4-6 weeks based on a combination of self-study (review content on your own) and group-discussion (ask questions, share insights or request clarifications) using Hangouts and Slack. Anyone is welcome to join the Slack discussions - just sign up for the [GDG Hudson Valley Slack](gdghv.herokuapp.com).
+
+
+## About This Book
+This book was created by [Nitya Narasimhan](https://github.com/nitya) for use in the [GDG Hudson Valley](http://www.meetup.com/gdg-hudson-valley/) Study Jam. It uses the GitBook platform and can be edited directly online using your GitHub login. All changes are directly pushed to this backing GitHub repo, triggering rebuilds of [the GitBoo](https://www.gitbook.com/book/nitya/android-studyjam-2016/details)k. The GitBook platform allows us to make this content available in[ web](https://www.gitbook.com/read/book/nitya/android-studyjam-2016) (HTML), and digital ([mobi](https://www.gitbook.com/download/mobi/book/nitya/android-studyjam-2016), [ePub](https://www.gitbook.com/download/epub/book/nitya/android-studyjam-2016), [pdf](https://www.gitbook.com/download/pdf/book/nitya/android-studyjam-2016)) versions for easy reading.
+
+### Contributors
+As with 2015, the goal is to make this an open-source effort that anyone can contribute either by requesting to be added as a direct collaborator, or by generating pull requests to our repo. Please feel free to edit this section and add your name/GitHub-handle for attribution as shown:
+* **Nitya Narasimhan** ([github](https://github.com/nitya))
+
