@@ -1,2 +1,2 @@
-# Lesson 3B: Object Oriented Programming
+# 3B: Object Oriented Programming
 
