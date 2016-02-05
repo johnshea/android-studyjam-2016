@@ -1,2 +1,2 @@
-# Lesson 1B: Building Layouts
+# 1B: Building Layouts
 
