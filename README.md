@@ -7,4 +7,29 @@ Based on insights from that first run, the second series of Study Jams in 2016 w
 
 
 ## About This Book
-This book is created by [GDG Hudson Valley](http://www.meetup.com/gdg-hudson-valley/) for use in their 2016 Study Jam. As with 2015, the goal is to make this an open-source effort that anyone can contribute either by requesting to be added as a direct collaborator, or by generating pull requests to our repo. The current version of this book will be available online at GitBook.
+This book was created by [Nitya Narasimhan](https://github.com/nitya) for use in the [GDG Hudson Valley](http://www.meetup.com/gdg-hudson-valley/) Study Jam. It uses the GitBook platform and can be edited directly online using your GitHub login. All changes are directly pushed to this backing GitHub repo, triggering rebuilds of the GitBook. The GitBook platform allows us to make this content available in web (HTML), and digital (ePub, mobi, pdf) versions for easy reading.
+
+### Contributors
+As with 2015, the goal is to make this an open-source effort that anyone can contribute either by requesting to be added as a direct collaborator, or by generating pull requests to our repo. Please feel free to edit this section and add your name/GitHub-handle for attribution as shown:
+* Nitya Narasimhan ([github](https://github.com/nitya))
+
+
+
+## About The Course
+The Android For Beginners course is currently based on the following outline.
+
+* __Lesson 1A__: Building Layouts
+* __Lesson 1B__: Building Layouts
+* *Practice Set 1*
+* *Coffee Break Challenge* (Optional)
+* __Lesson 2A__: Making an App Interactive
+* __Lesson 2B__: Making an App Interactive
+* *Practice Set 2*
+* __Lesson 3A__: Object Oriented Programming
+* __Lesson 3B__: Object Oriented Programming
+* *Final Project* : 5 Things
+
+## About GDG Hudson Valley Jams
+We will kick off with an [all-day workshop](http://www.meetup.com/gdg-hudson-valley/events/227448769/) where we will review all lesson content, ensure that everyone is setup with the right development environment for the course, and walk everyone through at least one simple practice set.
+
+The six lessons will then be covered over the next 4-6 weeks based on a combination of self-study (review content on your own) and group-discussion (ask questions, share insights or request clarifications) using Hangouts and Slack. Anyone is welcome to join the Slack discussions - just sign up for the [GDG Hudson Valley Slack](gdghv.herokuapp.com).
