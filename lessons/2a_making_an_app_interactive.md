@@ -1,2 +1,2 @@
-# Lesson 2A: Making an App Interactive
+# 2A: Making an App Interactive
 
