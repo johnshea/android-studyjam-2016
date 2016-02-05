@@ -2,8 +2,10 @@
 
 The [Google Developers](https://developers.google.com/groups/) Study Jams is a free series of global, community-run, in-person study groups. The [first Study Jams series](http://developerstudyjams.com/) ran in 2015 in partnership with Udacity, and focused on their [Android Fundamentals curriculum](https://www.udacity.com/course/viewer#!/c-ud853) targeting participants with some coding background.
 
+
 ## About This Jam
 Based on insights from that first run, the second series of Study Jams in 2016 will run from Feb-May and focus on the [Udacity "Android for Beginners"](https://www.udacity.com/course/viewer#!/c-ud837) curriculum. This version targets absolute beginners -- anyone who has no programming experience, or has programmed with a language other than Android. You can find out more about the course content and materials on the [Udacity Course Wiki](https://www.udacity.com/wiki/ud837).
+
 
 
 ## About This Book
@@ -11,7 +13,7 @@ This book was created by [Nitya Narasimhan](https://github.com/nitya) for use in
 
 ### Contributors
 As with 2015, the goal is to make this an open-source effort that anyone can contribute either by requesting to be added as a direct collaborator, or by generating pull requests to our repo. Please feel free to edit this section and add your name/GitHub-handle for attribution as shown:
-* Nitya Narasimhan ([github](https://github.com/nitya))
+* **Nitya Narasimhan** ([github](https://github.com/nitya))
 
 
 
@@ -28,6 +30,7 @@ The Android For Beginners course is currently based on the following outline.
 * __Lesson 3A__: Object Oriented Programming
 * __Lesson 3B__: Object Oriented Programming
 * *Final Project* : 5 Things
+
 
 ## About GDG Hudson Valley Jams
 We will kick off with an [all-day workshop](http://www.meetup.com/gdg-hudson-valley/events/227448769/) where we will review all lesson content, ensure that everyone is setup with the right development environment for the course, and walk everyone through at least one simple practice set.
