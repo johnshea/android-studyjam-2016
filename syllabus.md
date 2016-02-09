@@ -6,11 +6,17 @@ The following is replicated from the [Udacity Wiki](https://www.udacity.com/wiki
 
 *Take your hand drawn app designs and lay them out on the phone screen.*
 
-In this lesson you'll learn about various Views and ViewGroups used to make layouts for your Android apps. You’ll learn the XML markup language used to lay out Android applications. You’ll create views, the basic building block of Android layouts, that display text and images. Then you’ll position your text and images on these screens. This highly interactive lesson encourages experimentation through coding challenges in Udacity’s [XML Visualizer](http://labs.udacity.com/android-visualizer/#/android/sandbox).
+#### Lesson
+ * You will learn about various Views and ViewGroups used to make layouts for your Android apps. 
+ * You will learn the XML markup language used to lay out Android applications. 
+ * You will create views, the basic building block of Android layouts, that display text and images. 
+ * You will position your text and images on these screens. 
 
 #### Topics
-1. Writing XML
-2. TextViews and ImageViews
+1. [XML Visualizer](http://labs.udacity.com/android-visualizer/#/android/sandbox)
+2. Writing XML
+2. TextViews 
+3. ImageViews
 3. Styling your views
 4. Positioning your views with ViewGroups
 5. LinearLayout weight
@@ -32,7 +38,11 @@ In this lesson you'll learn about various Views and ViewGroups used to make layo
 
 *Harness the power of Java to create an interactive coffee ordering app!* 
 
-You will start by writing simple statements in Java that add interactivity to your app. You will then incorporate buttons to trigger events. You will finally use a fundamental concept in programming, a variable, to keep track of all the coffee drinks ordered.
+
+#### Lesson
+* You will start by writing simple statements in Java that add interactivity to your app.
+* You will then incorporate buttons to trigger events. 
+* You will finally use a fundamental concept in programming, a variable, to keep track of all the coffee drinks ordered.
 
 #### Topics
 * Making a button click execute code
@@ -56,7 +66,11 @@ You will start by writing simple statements in Java that add interactivity to yo
 
 *Take a deeper dive into the Android Framework to complete the Just Java coffee ordering app!* 
 
-You will see in more detail how Android works behind the scenes and take your first steps towards learning Object Oriented Programming. You will add the ability to add toppings to your coffee, and show a detailed order summary when the customer purchases a coffee.
+#### Lesson
+* You will see in more detail how Android works behind the scenes.
+* You will take your first steps towards learning Object Oriented Programming. 
+* You will add the ability to add toppings to your coffee
+* You will show a detailed order summary when the customer purchases a coffee.
 
 ### Topics
 * Method declaration and calling
