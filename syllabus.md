@@ -2,6 +2,22 @@
 
 The following is replicated from the [Udacity Wiki](https://www.udacity.com/wiki/ud837) and the [Course Syllabus](https://www.udacity.com/course/android-development-for-beginners--ud837)
 
+The course content consists of videos that can be downloaded here in one archive for offline viewing.
+
+**LESSONS**
+* 1A Building Layouts **(26 videos)**
+* 1B Building Layouts **(23 videos)**
+* 2A Making an app interactive **(40 videos)**
+* 2B Making an app interactive **(21 videos)**
+* 3A Object oriented programming **(33 videos)**
+* 3B Object oriented programming **(31 videos)**
+
+**PROJECTS**
+* Practice Set 1 **(35 videos)**
+* Practice Set 2 **(44 videos)**
+* Coffee Break **(11 videos)**
+
+
 ## 1. Building Layouts
 
 *Take your hand drawn app designs and lay them out on the phone screen.*
