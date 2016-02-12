@@ -4,6 +4,8 @@
 
 ## Notes
 
+## Syllabus
+
 The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows:
 * 01 - Introduction.mp4
 * 02 - Learning Something New.mp4
