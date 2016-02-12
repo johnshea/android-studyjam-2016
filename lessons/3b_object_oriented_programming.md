@@ -4,3 +4,7 @@
 ## Questions
 
 ## Notes
+
+## Syllabus
+
+The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows:
