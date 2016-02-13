@@ -6,7 +6,7 @@ The course content consists of videos that can be downloaded here in one archive
 
 **LESSONS**
 * [Lesson 1A: Building Layouts](lessons/1a_building_layouts.md) **(26 videos)**
-* 1B Building Layouts **(23 videos)**
+* [Lesson 1B: Building Layouts](lessons/1b_building_layouts.md) **(23 videos)**
 * 2A Making an app interactive **(40 videos)**
 * 2B Making an app interactive **(21 videos)**
 * 3A Object oriented programming **(33 videos)**
