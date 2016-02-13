@@ -6,8 +6,7 @@
 ## Notes
 
 ## Syllabus
-
-The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows:
+The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows. _Watching this entire set of videos takes approximately [ ] minutes._
 
 * 01 - Adding a CheckBox.mp4
 * 02 - Adding a CheckBox - Solution.mp4
