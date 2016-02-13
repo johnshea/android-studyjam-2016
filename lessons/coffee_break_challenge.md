@@ -5,8 +5,7 @@
 ## Notes
 
 ## Syllabus
-
-The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows:
+The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows. _Watching this entire set of videos takes approximately [ ] minutes._
 * 01 - Coffee Break Challenge Question 1.mp4
 * 02 - Coffee Break Challenge Question 2.mp4
 * 03 - Coffee Break Challenge Question 3.mp4
