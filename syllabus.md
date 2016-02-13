@@ -5,7 +5,7 @@ The following is replicated from the [Udacity Wiki](https://www.udacity.com/wiki
 The course content consists of videos that can be downloaded here in one archive for offline viewing.
 
 **LESSONS**
-* 1A Building Layouts **(26 videos)**
+* [Lesson 1A: Building Layouts](lessons/1a_building_layouts.md) **(26 videos)**
 * 1B Building Layouts **(23 videos)**
 * 2A Making an app interactive **(40 videos)**
 * 2B Making an app interactive **(21 videos)**
