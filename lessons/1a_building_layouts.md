@@ -16,7 +16,8 @@
 
 ## Syllabus
 
-The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows:
+The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows. _Watching this entire set of videos takes approximately [ ] minutes._
+
 * 01 - Introduction.mp4
 * 02 - Learning Something New.mp4
 * 03 - Intro to the App Lesson Map.mp4
