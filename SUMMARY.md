@@ -10,5 +10,5 @@
 * [Lesson 3B: Object Oriented Programming](lessons/3b_object_oriented_programming.md)
 * [Exercises](lessons/exercises.md)
 * [Practice Set 1](lessons/practice_set_1.md)
-* Coffee Break Challenge
+* [Coffee Break Challenge](lessons/coffee_break_challenge.md)
 
