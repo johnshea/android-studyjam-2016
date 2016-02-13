@@ -5,8 +5,7 @@
 ## Notes
 
 ## Syllabus
-
-The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows:
+The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as follows. _Watching this entire set of videos takes approximately [ ] minutes._
 
 * 01 - Introduction to Practice Set 2.mp4
 * 02 - Intro to Practice Set 2 - Solution.mp4
