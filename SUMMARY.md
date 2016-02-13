@@ -12,4 +12,5 @@
 * [Practice Set 1](lessons/practice_set_1.md)
 * [Coffee Break Challenge](lessons/coffee_break_challenge.md)
 * [Practice Set 2](lessons/practice_set_2.md)
+* Final Project
 
