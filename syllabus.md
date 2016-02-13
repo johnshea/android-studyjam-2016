@@ -88,7 +88,7 @@ The course content consists of videos that can be downloaded here in one archive
 * You will add the ability to add toppings to your coffee
 * You will show a detailed order summary when the customer purchases a coffee.
 
-### Topics
+#### Topics
 * Method declaration and calling
 * Parameters and return values
 * An introduction to Object Oriented Programming
@@ -96,8 +96,9 @@ The course content consists of videos that can be downloaded here in one archive
 * Creating conditional logic using if/else statements
 
 
-#### Final Project: Teach Five Things App
+## Final Project
 
+#### Teach Five Things App
 * Plan out your app design prior to coding, based on user feedback and needs
 * Take an app layout from drawing to XML code
 * Create, position, and style views
