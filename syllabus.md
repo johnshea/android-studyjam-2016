@@ -3,19 +3,21 @@
 The following is replicated from the [Udacity Wiki](https://www.udacity.com/wiki/ud837) and the [Course Syllabus](https://www.udacity.com/course/android-development-for-beginners--ud837)
 
 The course content consists of videos that can be downloaded here in one archive for offline viewing.
+son 
 
 **LESSONS**
 * [Lesson 1A: Building Layouts](lessons/1a_building_layouts.md) **(26 videos)**
 * [Lesson 1B: Building Layouts](lessons/1b_building_layouts.md) **(23 videos)**
-* 2A Making an app interactive **(40 videos)**
-* 2B Making an app interactive **(21 videos)**
-* 3A Object oriented programming **(33 videos)**
-* 3B Object oriented programming **(31 videos)**
+* [Lesson 2A: Making an App Interactive](lessons/2a_making_an_app_interactive.md) **(40 videos)**
+* [Lesson 2B: Making an App Interactive](lessons/2b_making_an_app_interactive.md) **(21 videos)**
+* [Lesson 3A: Object Oriented Programming](lessons/3a_object_oriented_programming.md) **(33 videos)**
+* [Lesson 3B: Object Oriented Programming](lessons/3b_object_oriented_programming.md) **(31 videos)**
 
 **PROJECTS**
-* Practice Set 1 **(35 videos)**
-* Practice Set 2 **(44 videos)**
-* Coffee Break **(11 videos)**
+* [Practice Set 1](lessons/practice_set_1.md) **(35 videos)**
+* [Coffee Break Challenge](lessons/coffee_break_challenge.md) **(11 videos)**
+* [Practice Set 2](lessons/practice_set_2.md)
+* [Final Project](lessons/final_project.md) **(44 videos)**
 
 
 ## 1. Building Layouts
