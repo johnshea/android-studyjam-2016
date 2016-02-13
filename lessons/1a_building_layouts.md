@@ -3,15 +3,7 @@
 ## Questions
 
 
-
-
-
 ## Notes
-
-
-
-
-
 
 
 ## Syllabus
