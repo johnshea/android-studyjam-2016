@@ -37,3 +37,21 @@ The [video listing](https://www.udacity.com/course/progress#!/c-ud837) is as fol
 * 25 - Documentation - Solution.mp4
 * 26 - Chatting with Android Developer Part 1.mp4
 
+## **SubChapters**
+
+1. [Learning Something New](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4347158586/m-4329550790) (1:23) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4347158586/m-4330701653)
+2. [Intro to the App: Lesson Map](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/m-4329550791) (1:52)
+3. [Vocab Words](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/m-4441429407)
+4. [Views](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4233158633/m-4329550794) (2:29) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4233158633/m-4199238654) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4233158633/m-4329550795)
+5. [Picking Views for YouTube App](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4247658643/m-4329550797) (0:33) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4247658643/m-4253748585) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4247658643/m-4329550798)
+6. [Talking To Your Phone](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/m-4329550799) (2:51)
+7. [Using a TextView](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4247268609/m-4329550801) (0:32) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4247268609/m-4203488642) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4247268609/m-4329550802)
+8. [XML Syntax](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4255518599/m-4329550803) (5:22) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4255518599/m-4320319649) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4255518599/m-4329550804)
+9. [Change the TextView](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4207588674/m-4237118662) (4:12) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4207588674/m-4256368565) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4207588674/m-4240748617)
+10. [Getting Past Errors](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4249738587/m-4246818782) (4:49) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4249738587/m-4240938759) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4249738587/m-4251958544)
+11. [Setting Wrap Content](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4256058551/m-4329550806) (2:42) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4256058551/m-4196078618) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4256058551/m-4329550807)
+12. [TextView Text Size](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4242778684/m-4329550809) (3:12) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4242778684/m-4199758629) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4242778684/m-4329550810)
+13. [TextView Text Color](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4199898569/m-4329550812) (1:58) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4199898569/m-4243758682) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4199898569/m-4329550813)
+14. [Simple ImageView](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4198318583/m-4371779348) (4:06) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4198318583/m-4240918674) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4198318583/m-4380109768)
+15. [Documentation](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4238658604/m-4329550815) (3:59) [(Task)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4238658604/m-4231208640) [(*Solution*)](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/e-4238658604/m-4329550816)
+16. [Chatting with Android Developer Part 1](https://www.udacity.com/course/viewer#!/c-ud837/l-4027328704/m-4253158616) (8:16)
