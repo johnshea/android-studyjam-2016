@@ -43,5 +43,5 @@ The GitBook platform allows us to make this content available in[ web](https://w
 As with 2015, the goal is to make this an open-source effort that anyone can contribute either by requesting to be added as a direct collaborator, or by generating pull requests to our repo.
 
 Please feel free to edit this section and add your [ name, GitHub, contribution] data for attribution as shown:
-* **Nitya Narasimhan** ([github](https://github.com/nitya)) - creator and editor
-* **John Shea**  ([github](https://github.com/johnshea), [linkedin](https://www.linkedin.com/in/sheajohnh)) - contributor to subchapter sections (1A, 1B, Practice Set 1, Coffee Break Challege)
+* **Nitya Narasimhan** ([github](https://github.com/nitya)) - editor
+* **John Shea** [[github](https://github.com/johnshea)]
